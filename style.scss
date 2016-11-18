@@ -19,7 +19,7 @@ html {
 
 body {
 	    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/23/76/88/2376889a54bcb228b38f089ea2fe85a3.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
   font: 18px/1.4 $helvetica;
   color: #F2EFC7;
 }
@@ -71,11 +71,11 @@ p {
 }
 
 a {
-  color: #F9E0D9;
+  color: #F2EFC7;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #F9E0D9;
+    color: #F2EFC7;
   }
 }
 
