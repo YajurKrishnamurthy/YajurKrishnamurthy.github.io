@@ -21,7 +21,7 @@ body {
 	    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/23/76/88/2376889a54bcb228b38f089ea2fe85a3.png");
     background-repeat: no-repeat;
   font: 18px/1.4 $helvetica;
-  color: #5D4954;
+  color: #F2EFC7;
 }
 
 .container {
@@ -29,12 +29,12 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-	background-colour: rgba(240,240,240,0.50)
+  background: rgba(163, 176, 178, 0.5);
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #F9E0D9;
+  color: #F2EFC7;
   font-weight: bold;
 
   line-height: 1.7;
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #F9E0D9;
+    color: #F2EFC7;
   }
 }
 
@@ -63,7 +63,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #F9E0D9;
+  color: #F2EFC7;
 }
 
 p {
